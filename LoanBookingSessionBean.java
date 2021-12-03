@@ -3,7 +3,6 @@ import java.lang.Math;
 import java.io.printer; 
 import java.io.collection; 
 import java.io.inputfiles;
-import java.io.scanner;
 public class SpiralPatternExample2  
 {  
 //function to print the spiral pattern  
